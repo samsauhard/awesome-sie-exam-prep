@@ -86,6 +86,7 @@ Practice tests and question banks:
 | [Quizlet SIE Questions](https://quizlet.com/subject/sie-exam/) | Varies | Community | Yes |
 
 ---
+| [**InfinityMock**](https://infinitymock.com) | Unlimited (AI-generated) | Yes, detailed per-question | 30 free credits on signup, then pay-as-you-go |
 
 ## SIE Flashcards
 
